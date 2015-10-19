@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notificacion</string>
+    <string name="hTitulo">Titulo</string>
+    <string name="hContenido">Contenido</string>
+    <string name="hTicker">Ticker</string>
+    <string name="bNotificar">Notificar</string>
+</resources>
